@@ -25,7 +25,7 @@ This will produce the following schema
 
 ```graphql
 type Query {
-  printEnvironmentInfo(parentField: String!): MyObject!
+  printEnvironmentInfo(parentField: Hi!): MyObject!
 }
 
 type MyObject {
